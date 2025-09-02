@@ -133,7 +133,7 @@ Requires active internet connection for full functionality
 This project is open source and available under the MIT License.
 
 👨‍💻 Author
-Created with ❤️ by [Your Name]
+Created with ❤️ by Aaron Joo
 
 🙏 Acknowledgments
 Design inspiration from modern real estate platforms
@@ -143,7 +143,7 @@ Icons and visual elements designed for accessibility
 For questions, issues, or feature requests:
 
 Create an issue in this repository
-Email: [your-email@example.com]
-LinkedIn: [Your LinkedIn Profile]
+Email: aaron.k.joo@gmail.com
+LinkedIn: https://www.linkedin.com/in/aaronkjoo/
 ⭐ Star this repository if you find it helpful!
 
