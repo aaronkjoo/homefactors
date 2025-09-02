@@ -16,7 +16,7 @@ Smart Insights: AI-generated recommendations based on property data
 Responsive Design: Works seamlessly on desktop, tablet, and mobile devices
 Real-time Analysis: Instant property evaluation with loading animations
 🚀 Live Demo
-Visit the live application: [Your GitHub Pages URL]
+Visit the live application: https://aaronkjoo.github.io/homefactors/
 
 🛠️ Technology Stack
 Current Frontend:
