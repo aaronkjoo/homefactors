@@ -1,3 +1,4 @@
+Home Factors Web App (HTML/CSS/JS)
 🏠 Home Factors - Property Intelligence Platform
 A comprehensive web application that analyzes property addresses and provides detailed insights including safety scores, school ratings, resale potential, walkability, local amenities, and environmental factors.
 
